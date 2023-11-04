@@ -1,0 +1,6 @@
+/dist
+/build
+test
+*.ini
+*.spec
+*.DS_Store
